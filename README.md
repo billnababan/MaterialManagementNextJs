@@ -33,7 +33,7 @@ Clone the repository to your local machine using the following command:
 1. Navigate to the frontend directory:
 
    ```bash
-   cd Client
+   cd MaterialManagementNextJs
    ```
 
 2. Install the necessary dependencies:
