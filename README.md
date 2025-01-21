@@ -50,6 +50,22 @@ Clone the repository to your local machine using the following command:
 
 4. Open your browser and navigate to `http://localhost:3000` to access the application.
 
+## Troubleshooting CORS Issues
+   If you encounter any issues related to CORS (Cross-Origin Resource Sharing) errors while running the frontend, please note that these are typically caused by restrictions in accessing resources from a different domain. To resolve this, I recommend using the CORS       Unblock extension.
+
+   How to Use CORS Unblock
+   - Install the Extension:
+
+  -  You can install the CORS Unblock extension for your browser (e.g., Chrome or Firefox).
+   Visit the browser extension store and search for CORS Unblock, then click Add to Chrome or Add to Firefox.
+   Enable CORS Unblock:
+
+   - After installation, click the extension icon in your browser toolbar to enable it. It should unblock CORS for any local requests to the backend during development.
+   Resolve CORS Errors:
+
+   - Once the extension is enabled, refresh the page and try making requests again. This should resolve the CORS errors and allow smooth communication between the frontend and backend.
+
+
 ## User Roles
 
 1. **Production Department**:
